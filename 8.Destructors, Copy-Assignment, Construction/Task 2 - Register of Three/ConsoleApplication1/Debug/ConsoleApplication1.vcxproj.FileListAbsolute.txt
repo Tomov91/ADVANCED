@@ -1,0 +1,2 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\ADVANCED\8.Destructors, Copy-Assignment, Construction\Task 2 - Register of Three(notready)\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\Tomi\Desktop\C++\Припомняне\ADVANCED\8.Destructors, Copy-Assignment, Construction\Task 2 - Register of Three\ConsoleApplication1\Debug\ConsoleApplication1.exe

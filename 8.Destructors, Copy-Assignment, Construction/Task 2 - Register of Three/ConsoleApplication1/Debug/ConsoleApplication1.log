@@ -1,0 +1,5 @@
+﻿  Register.cpp
+  RegisterMain.cpp
+  Generating Code...
+C:\Users\Tomi\Desktop\C++\Припомняне\ADVANCED\8.Destructors, Copy-Assignment, Construction\Task 2 - Register of Three\ConsoleApplication1\Register.cpp(31): warning C4715: 'Register::get': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Tomi\Desktop\C++\Припомняне\ADVANCED\8.Destructors, Copy-Assignment, Construction\Task 2 - Register of Three\ConsoleApplication1\Debug\ConsoleApplication1.exe
