@@ -1,0 +1,1 @@
+C:\Users\Tomi\Desktop\C++\Припомняне\ADVANCED\9.C++ OOP – Inheritance and Polymorphism\02. Aggregators\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
